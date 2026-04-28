@@ -82,8 +82,6 @@ Improving discharge processes and strengthening case management workflows is cri
 * `Outcome_Stability.png`
 * `Pipeline_Throughput.png`
   
-Then they will show like this:
-
 ![Transfer Efficiency](https://github.com/ishagumber28/care-transition-analyticsdashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Transfer_Efficiency_Trend.png)
 ![Discharge Efficiency](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Discharge_Effectiveness_trend.png)
 ![System Flow (Inflow vs Outflow)](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/System_Flow.png)
