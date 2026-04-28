@@ -76,16 +76,20 @@ Improving discharge processes and strengthening case management workflows is cri
 ## 🖼️ Dashboard Preview
 
 * `Transfer_Efficiency_Trend.png`
-* `Discharge_Effectiveness_trend.png`
+* `Discharge_Effectiveness_Trend.png`
+* `System_Flow.png`
+* `Backlog_Accumulation.png`
+* `Outcome_Stability.png`
 * `Pipeline_Throughput.png`
-* `Backlog_Accumulation_Trend.png`
-
+  
 Then they will show like this:
 
-![Transfer Efficiency](images/Transfer_Efficiency_Trend.png)
-![Discharge Efficiency](images/Discharge_Effectiveness_trend.png)
-![Throughput Trend](images/Pipeline_Throughput.png)
-![Backlog Rate](images/Backlog_Accumulation_Trend.png)
+![Transfer Efficiency](https://github.com/ishagumber28/care-transition-analyticsdashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Transfer_Efficiency_Trend.png)
+![Discharge Efficiency](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Discharge_Effectiveness_trend.png)
+![System Flow (Inflow vs Outflow)](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/System_Flow.png)
+![Backlog Accumulation](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Backlog_Accumulation_Trend.png)
+![Outcome_Stability_and_Throughput](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Outcome_Stability.png)
+![Pipeline_Throughput Trend](https://github.com/ishagumber28/care-transition-analytics-dashboard/blob/4049e2b551d1bc618540035ac2706808aef4ad59/Pipeline_Throughput.png)
 
 ---
 
