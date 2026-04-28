@@ -75,25 +75,16 @@ Improving discharge processes and strengthening case management workflows is cri
 
 ## 🖼️ Dashboard Preview
 
-* `Transfer_Efficiency_Trend.png`
-* `Discharge_Effectiveness_Trend.png`
-* `System_Flow.png`
-* `Backlog_Accumulation.png`
-* `Outcome_Stability.png`
-* `Pipeline_Throughput.png`
-  
-## 🖼️ Dashboard Preview
-
+### 🚚 Transition & Discharge
 ![Transfer Efficiency](images/transfer_efficiency.png)
-
 ![Discharge Effectiveness](images/discharge_effectiveness.png)
 
+### 🔄 System Behavior
 ![System Flow](images/system_flow.png)
-
 ![Backlog Accumulation](images/backlog_accumulation.png)
 
+### 📊 Performance Metrics
 ![Outcome Stability](images/outcome_stability.png)
-
 ![Pipeline Throughput](images/pipeline_throughput.png)
 
 ---
