@@ -75,19 +75,17 @@ Improving discharge processes and strengthening case management workflows is cri
 
 ## 🖼️ Dashboard Preview
 
-👉 Upload these images in an `images/` folder and name them exactly like this:
-
-* `transfer_efficiency.png`
-* `discharge_efficiency.png`
-* `throughput_trend.png`
-* `backlog_rate.png`
+* `Transfer_Efficiency_Trend.png`
+* `Discharge_Effectiveness_trend.png`
+* `Pipeline_Throughput.png`
+* `Backlog_Accumulation_Trend.png`
 
 Then they will show like this:
 
 ![Transfer Efficiency](images/Transfer_Efficiency_Trend.png)
-![Discharge Efficiency](images/discharge_efficiency.png)
-![Throughput Trend](images/throughput_trend.png)
-![Backlog Rate](images/backlog_rate.png)
+![Discharge Efficiency](images/Discharge_Effectiveness_trend.png)
+![Throughput Trend](images/Pipeline_Throughput.png)
+![Backlog Rate](images/Backlog_Accumulation_Trend.png)
 
 ---
 
