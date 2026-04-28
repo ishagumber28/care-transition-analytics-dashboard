@@ -84,7 +84,7 @@ Improving discharge processes and strengthening case management workflows is cri
 
 Then they will show like this:
 
-![Transfer Efficiency](images/transfer_efficiency.png)
+![Transfer Efficiency](images/Transfer_Efficiency_Trend.png)
 ![Discharge Efficiency](images/discharge_efficiency.png)
 ![Throughput Trend](images/throughput_trend.png)
 ![Backlog Rate](images/backlog_rate.png)
